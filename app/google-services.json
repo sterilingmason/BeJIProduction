@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "55706080354",
+    "firebase_url": "https://bejiproduction.firebaseio.com",
+    "project_id": "bejiproduction",
+    "storage_bucket": "bejiproduction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55706080354:android:7dedd243938078b5",
+        "android_client_info": {
+          "package_name": "com.bejiproduction.bejiproduction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55706080354-craom5mcvheeebd11b5e161mdlucr7a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh8Oj99FR1rDm97-fMNnJqBfBEYOGVloQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
