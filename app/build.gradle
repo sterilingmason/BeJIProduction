@@ -26,4 +26,4 @@ dependencies {
     compile 'com.android.support:design:24.+'
 }
 
-//apply plugin: 'com.google.gms.google-services'
+apply plugin: 'com.google.gms.google-services'
